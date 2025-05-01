@@ -35,8 +35,6 @@ The project simulates a real-world scenario where a data analyst answers busines
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(198).png" width="300">
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(199).png" width="300">
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(200).png" width="300">
-
-<p align="center">
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(201).png" width="300">
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(202).png" width="300">
   <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(203).png?raw=true" width="300">
