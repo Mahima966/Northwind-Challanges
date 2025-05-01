@@ -29,6 +29,36 @@ The project simulates a real-world scenario where a data analyst answers busines
 
 ---
 
-<h2>📂 Project Demo Video </h2>
-[![Watch the Video](https://github.com/Mahima966/Northwind-Challanges/blob/main/video-thumbnail.png)](https://github.com/Mahima966/Northwind-Challanges/raw/main/video_20250501_140058.mp4)
+<h2>📷 Project Screenshot</h2>
+
+<p align="center">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(198).png" width="300">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(199).png" width="300">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(200).png" width="300">
+
+<p align="center">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(201).png" width="300">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(202).png" width="300">
+  <img src="https://github.com/Mahima966/Northwind-Challanges/blob/main/Screenshot%20(203).png?raw=true" width="300">
+
+<h2>🎥 Watch Demo Video</h2>
+<p>
+  <a href="https://github.com/Mahima966/Northwind-Challanges/raw/main/VN20250501_134726.mp4">
+    👉Click here to watch the video
+  </a>
+</p>
+
+<hr>
+
+<h2>🛠️ Tools Used</h2>
+<ul>
+  <li><b>SQL</b> – For data extraction and business logic implementation</li>
+  <li><b>Power BI</b> – For building interactive dashboards and visual storytelling</li>
+  <li><b>Northwind Dataset</b> – A classic sales database for practice and real-world analysis</li>
+</ul>
+
+
+
+
+
 
