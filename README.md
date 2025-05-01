@@ -29,5 +29,9 @@ The project simulates a real-world scenario where a data analyst answers busines
 
 ---
 
-<h2>📂 File Structure</h2>
+<h2>📂 Project Demo Video </h2>
+<video width="600" controls>
+  <source src="<video width="600" controls>
+  <source src="path/to/your-video.mp4" type="video/mp4">
+
 
