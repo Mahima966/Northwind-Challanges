@@ -55,6 +55,8 @@ The project simulates a real-world scenario where a data analyst answers busines
   <li><b>Northwind Dataset</b> – A classic sales database for practice and real-world analysis</li>
 </ul>
 
+<h2>Northwind Queries</h2>
+<a href="https://github.com/Mahima966/Northwind-Challanges/blob/main/NorthWind%20Query.txt">👉Click Here To view query </a>
 
 
 
