@@ -56,7 +56,12 @@ The project simulates a real-world scenario where a data analyst answers busines
 </ul>
 
 <h2>👩‍💻Northwind Queries</h2>
-<a href="https://github.com/Mahima966/Northwind-Challanges/blob/main/NorthWind%20Query.txt">👉Click Here To view queries </a>
+<a href="https://github.com/Mahima966/Northwind-Challanges/blob/main/NorthWind%20Query.txt">👉Click Here To view DAX queries </a>
+
+<br>
+<br><a href="https://github.com/Mahima966/Northwind-Challanges/blob/main/Northwind_SQL_Queries.txt">👉Click Here To view SQL queries </a>
+
+
 
 
 
